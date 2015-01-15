@@ -1,0 +1,1 @@
+browserify -t [ reactify --es6 --target es5 ] main.js
